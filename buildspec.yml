@@ -8,3 +8,4 @@ artifacts:
     - appspec.yml
     - target/SampleMavenTomcatApp.war
     - scripts/*
+  discard-paths: yes  
